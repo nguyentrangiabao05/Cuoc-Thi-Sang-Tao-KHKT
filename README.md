@@ -1,37 +1,25 @@
 ## Giới thiệu
 
-You can use the [editor on GitHub](https://github.com/nguyentrangiabao05/khkt2018/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+a. Họ và tên tác giả :  NGUYỄN TRẦN GIA BẢO - Lớp 8.7
+                       TRẦN THANH TÂM      - Lớp 9.6
+b. Đơn vị: Trường THCS Nguyễn An Ninh
+c. Tên dự án nghiên cứu: “Dùng giọng nói và trợ lý ảo để điều khiển và giám sát nhà thông minh”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+d. Lĩnh vực dự thi: “10. Hệ thống nhúng; 21. Phần mềm hệ thống”
 
-### Markdown
+e. Thời gian thực hiện dự án: từ ngày 26/08/2017 đến ngày 26/08/2018
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+f. Thời gian cải tiến phần mềm: từ ngày 3/11/2018 đến ngày 19/11/2018
 
-```markdown
-Syntax highlighted code block
+### Tóm tắt nội dung dự án
 
-# Header 1
-## Header 2
-### Header 3
+Dự án “Dùng giọng nói và trợ lý ảo để điều khiển và giám sát nhà thông minh” nhằm mục tiêu xây dựng một hệ thống nhà thông minh có khả năng điều khiển và theo dõi thông qua Internet, có khả năng điều khiển được bằng giọng nói (Tiếng Anh) sử dụng trợ lý ảo Siri có sẵn trên điện thoại hệ điều hành IOS, thông qua trợ lý ảo Google Assistant trên điện thoại Android, sử dụng phần mềm THCS Nguyễn An Ninh để điều khiển thông qua giọng nói tiếng Việt. Người dùng có thể theo dõi các trạng thái môi trường trong nhà mình như: Nhiệt độ, độ ẩm, nồng độ khí gas, bụi, cường độ ánh sáng,….Ngoài ra còn có thể điểu khiển các thiết bị trong nhà một cách tự động như khi phát hiện có cháy, nguyên nhân gây cháy như khói, nhiệt độ hoặc nguy cơ có cháy như rò khí gas, hệ thống sẽ tự động tắt các thiết bị điện trong ngôi nhà, bật hệ thống quạt thông gió từ nguồn điện dự phòng, đồng thời báo lên website và gửi thông báo đến điện thoại người dùng.
 
-- Bulleted
-- List
+Trong khuôn khổ dự án, hệ thống truyền tải thông tin, điều khiển sẽ được tập trung nghiên cứu kĩ với mục tiêu là tính bảo mật và tính ổn định. Như vậy, vấn đề nghiên cứu về phương pháp lập trình sẽ phải được quan tâm và chú ý. 
 
-1. Numbered
-2. List
+### Bản quyền và phụ lục
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nguyentrangiabao05/khkt2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Phần mềm này là giấy phép mã nguồn mở được lập trình trên nền tảng kéo thả Thunkable. 
+@ Nguyễn Trần Gia Bảo - Trần Thanh Tâm 
+@ Trường trung học cơ sở Nguyễn An Ninh
+@ Cuộc thi nghiên cứu sáng tạo KHKT cấp tỉnh năm học 2018 - 2019
