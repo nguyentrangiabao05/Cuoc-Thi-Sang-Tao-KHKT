@@ -1,7 +1,6 @@
 ## Giới thiệu
 
 a. Họ và tên tác giả :  NGUYỄN TRẦN GIA BẢO - Lớp 8.7
-
                         TRẦN THANH TÂM      - Lớp 9.6
                         
 b. Đơn vị: Trường THCS Nguyễn An Ninh
