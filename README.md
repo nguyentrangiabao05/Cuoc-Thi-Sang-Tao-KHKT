@@ -1,8 +1,11 @@
 ## Giới thiệu
 
 a. Họ và tên tác giả :  NGUYỄN TRẦN GIA BẢO - Lớp 8.7
+
                         TRẦN THANH TÂM      - Lớp 9.6
+                        
 b. Đơn vị: Trường THCS Nguyễn An Ninh
+
 c. Tên dự án nghiên cứu: “Dùng giọng nói và trợ lý ảo để điều khiển và giám sát nhà thông minh”
 
 d. Lĩnh vực dự thi: “10. Hệ thống nhúng; 21. Phần mềm hệ thống”
@@ -20,6 +23,9 @@ Trong khuôn khổ dự án, hệ thống truyền tải thông tin, điều 
 ### Bản quyền và phụ lục
 
 Phần mềm này là giấy phép mã nguồn mở được lập trình trên nền tảng kéo thả Thunkable. 
+
 * Nguyễn Trần Gia Bảo - Trần Thanh Tâm 
+
 * Trường trung học cơ sở Nguyễn An Ninh
+
 * Cuộc thi nghiên cứu sáng tạo KHKT cấp tỉnh năm học 2018 - 2019
