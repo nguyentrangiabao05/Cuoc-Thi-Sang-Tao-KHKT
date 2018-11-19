@@ -25,6 +25,6 @@ Phần mềm này là giấy phép mã nguồn mở được lập trình trên 
 
 * Nguyễn Trần Gia Bảo - Trần Thanh Tâm 
 
-* Trường trung học cơ sở Nguyễn An Ninh
+* Trường THCS Nguyễn An Ninh
 
 * Cuộc thi nghiên cứu sáng tạo KHKT cấp tỉnh năm học 2018 - 2019
